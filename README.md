@@ -1,2 +1,3 @@
 # An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
-### The dataset we used in this project can be found here:
+The original Next Day Wildfire Spread dataset can be downloaded from: 
+The enhanced dataset we used in this project can be found here:
