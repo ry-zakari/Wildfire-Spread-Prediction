@@ -6,4 +6,4 @@
 
 # References and Acknowledgements
 Our code is based on the following repositories, we thank the authors for their excellent contributions.
-https://github.com/jfitzg7/paying-attention-to-wildfire
+https://github.com/jfitzg7/paying-attention-to-wildfire and https://github.com/jmichaels32/fireprediction 
