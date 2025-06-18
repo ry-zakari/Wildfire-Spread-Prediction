@@ -4,8 +4,8 @@
 
 ### Files and Directories Overview:
 **`datasets.py`**: Contains custom implementations of PyTorch's `Dataset` class designed specifically for loading and managing the wildfire dataset.
-pickle_wildfire_datasets.py: Extracts random 32×32 patches from the original data, converts them into NumPy arrays, and saves them as pickle files.
-pickle_full_wildfire_datasets.py: Converts the full 64×64 original data directly into NumPy arrays and pickles them.
+**`pickle_wildfire_datasets.py`**: Extracts random 32×32 patches from the original data, converts them into NumPy arrays, and saves them as pickle files.
+**`pickle_full_wildfire_datasets.py`**: Converts the full 64×64 original data directly into NumPy arrays and pickles them.
 
 # References and Acknowledgements
 Our code is based on the following repositories, we thank the authors for their excellent contributions.
