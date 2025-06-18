@@ -2,7 +2,7 @@
 #### The original Next Day Wildfire Spread dataset can be downloaded from: https://www.kaggle.com/datasets/fantineh/next-day-wildfire-spread 
 #### The enhanced dataset we used in this project can be found here: https://www.kaggle.com/datasets/rufaiyusufzakari/enhanced-and-modified-next-day-wildfire-spread 
 
-#### Files and Directories Overview:
+### Files and Directories Overview:
 pickle_wildfire_datasets.py: Extracts random 32×32 patches from the original data, converts them into NumPy arrays, and saves them as pickle files.
 pickle_full_wildfire_datasets.py: Converts the full 64×64 original data directly into NumPy arrays and pickles them.
 
