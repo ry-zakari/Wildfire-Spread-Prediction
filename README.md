@@ -1,6 +1,8 @@
 # An Enhanced Wildfire Spread Prediction Using Multimodal Satellite Imagery and Deep Learning Models
 #### The original Next Day Wildfire Spread dataset can be downloaded from: https://www.kaggle.com/datasets/fantineh/next-day-wildfire-spread 
 #### The enhanced dataset we used in this project can be found here: https://www.kaggle.com/datasets/rufaiyusufzakari/enhanced-and-modified-next-day-wildfire-spread 
+Based on the dataset of Huot et al.; [GitHub repo here](https://github.com/google-research/google-research/tree/master/simulation_research/next_day_wildfire_spread).
+
 
 ### 📁 Files and Directories Overview
 
